@@ -1,7 +1,7 @@
 # TerminalSnakeGame
 
-This is a Snake game that runs in the terminal,
-and saves high-scores.
+This is a Snake game that runs in the terminal
+and saves scores and high-scores.
 
 To Run:
 - Option 1: Download the Visual Studio solution and run it through Visual Studio
